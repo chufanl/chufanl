@@ -1,1 +1,1 @@
-Moved to [sr.ht/~chufanl](sr.ht/~chufanl)
+Moved to [sr.ht/~chufanl](https://sr.ht/~chufanl)
