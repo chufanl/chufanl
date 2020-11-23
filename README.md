@@ -1,1 +1,1 @@
-Moved to [sr.ht/~chufanl](https://sr.ht/~chufanl)
+Moved to sourcehut: [sr.ht/~chufanl](https://sr.ht/~chufanl)
